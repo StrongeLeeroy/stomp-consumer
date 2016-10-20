@@ -1,0 +1,8 @@
+{
+  "port": 61616,
+  "host": "localhost",
+  "debug": true,
+  "login": "username",
+  "passcode": "password",
+  "topic": "topic.name"
+}
