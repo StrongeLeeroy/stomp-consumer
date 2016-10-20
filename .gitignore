@@ -1,3 +1,6 @@
+node_modules
+config/sample_config.json
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
